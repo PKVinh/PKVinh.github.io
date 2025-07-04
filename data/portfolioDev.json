@@ -1,0 +1,26 @@
+[
+    {
+        "image": "image1.png",
+        "title": "Booki",
+        "text": "Intégration de maquette en HTML et CSS",
+        "link": "https://pkvinh.github.io/booki/"
+    },
+    {
+        "image": "image2.png",
+        "title": "Mon Vieux grimoire",
+        "text": "Création d'un carrousel en Javascript",
+        "link": "https://pkvinh.github.io/print-it/"
+    },
+    {
+        "image": "image3.png",
+        "title": "Kasa",
+        "text": "Intégration d'éléments dynamiques en React",
+        "link": "https://pkvinh.github.io/kasa/"
+    },
+    {
+        "image": "image4.png",
+        "title": "Sophie Bluel",
+        "text": "Intégration d'éléments dynamiques en JavaScript (galerie de photos, espace de connexion, ajout/suppression de photos)",
+        "link": "https://pkvinh.github.io/booki/"
+    }
+]
