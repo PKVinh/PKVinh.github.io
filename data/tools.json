@@ -23,10 +23,5 @@
         "image": "jest.png",
         "title": "Jest",
         "text": "Rédcation de tests unitaires React"
-    },    
-    {
-        "image": "optimisation-et-debug.png",
-        "title": "Stratégie de tests",
-        "text": "Optimisation de l'accessibilté web"
     }
 ]
