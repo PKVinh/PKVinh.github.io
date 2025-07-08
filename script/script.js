@@ -103,7 +103,7 @@ function createPortfolioDevFromJSON() {
                         <h3 class="card-title">${item.title}</h3>
                         <p class="card-text">${item.text}</p>
                         <div class="text-center">
-                            <a href="${item.link}" class="btn btn-success" target="_blank">Lien</a>
+                            <a href="${item.link}" class="btn btn-success" target="_blank">Cliquez ici</a>
                         </div>
                     </div>
                 </div>
@@ -143,7 +143,7 @@ function createPortfolioTestFromJSON() {
                         <h3 class="card-title">${item.title}</h3>
                         <p class="card-text">${item.text}</p>
                         <div class="text-center">
-                            <a href="${item.link}" class="btn btn-success" target="_blank">Lien</a>
+                            <a href="${item.link}" class="btn btn-success" target="_blank">Cliquez ici</a>
                         </div>
                     </div>
                 </div>
