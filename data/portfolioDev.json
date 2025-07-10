@@ -1,12 +1,12 @@
 [
     {
-        "image": "image1.png",
+        "image": "image1.jpg",
         "title": "Booki",
         "text": "Intégration de maquette en HTML et CSS",
         "link": "https://pkvinh.github.io/booki/"
     },
     {
-        "image": "image2.png",
+        "image": "image2.jpg",
         "title": "Mon Vieux grimoire",
         "text": "Création d'un carrousel en Javascript",
         "link": "https://pkvinh.github.io/print-it/"

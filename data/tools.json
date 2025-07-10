@@ -1,26 +1,26 @@
 [
     {
-        "image": "cypress.png",
+        "image": "cypress.jpg",
         "title": "Cypress",
         "text": "Rédaction de tests automatiques"
     },
     {
-        "image": "jira.png",
+        "image": "jira.jpg",
         "title": "Jira",
         "text": "Report des bugs"
     },
     {
-        "image": "postman.png",
+        "image": "postman.jpg",
         "title": "Postman",
         "text": "Identification des anomalies concernant l'API"
     },
     {
-        "image": "docker.png",
+        "image": "docker.jpg",
         "title": "Docker",
         "text": "Création d'environnement de tests"
     },
     {
-        "image": "jest.png",
+        "image": "jest.jpg",
         "title": "Jest",
         "text": "Rédcation de tests unitaires React"
     }
